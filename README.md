@@ -2,7 +2,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    </head>
 <body>
     <h1>Bem vindo!</h1>
     <p>Meu nome é Hilary! Vou estar usando este espaço para gravar meus treinos de academia/corrida e resultados do ano.</p>  
@@ -67,6 +66,5 @@
 <p><b>Dia 07/02/2025 - Sexta-feira</b></p>
 <p>✅Treino Posteriores</p>
 <p>✅Treino Corrida: 8 x 200 a 12 km/h + 10 min a 09km/h + 2 min a 09km/h 12% + 3 min 08km/h 12% </p>
-</p>
 </body>
 </html>
