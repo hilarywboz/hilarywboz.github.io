@@ -66,14 +66,14 @@
 <p><b>Dia 07/02/2025 - Sexta-feira</b></p>
 <p>✅Treino Posteriores</p>
 <p>✅Treino Corrida: 8 x 200 a 12 km/h + 10 min a 09km/h + 2 min a 09km/h 12% + 3 min 08km/h 12% </p>
-<p>🔎Nível de Dificuldade 07 (difícil), sofri mais na subida.</p>
+<p>🔎Nível de Dificuldade: 07 (difícil). As duas primeiras fases foi tranquilo,mas sofri na inclinação.</p>
 <p><b>Dia 08/02/2025 - Sábado</b></p>
 <p>✅Treino Quadriceps</p>
 <p>❎Não tive tempo para terminar o treino de corrida. </p>
 <p><b>Dia 09/02/2025 - Domingo</b></p>
 <p>✅Treino Abdominal</p>
 <p>✅Treino Corrida: Subida da Antônio Maria Coelho (560 metros em elevações entre 29m a 602m, vide Strava). I - 2'53'' / II - 3'09'' / III - 3'10'' / IV - 3'10'' / V - 3'38''</p>
-<p>🔎Nível de Dificuldade 10 (muito difícil), meu pulmão estava ardendo e doendo já. Pular corda nunca foi tão difícil após o treino, acho que vou tentar pular corda antes.</p>
+<p>🔎Nível de Dificuldade: 10 (muito difícil). Meu pulmão estava ardendo e queimou de tanto esforço. Pular corda nunca foi tão difícil após o treino, acho que vou tentar pular corda antes.</p>
 <p><b>Dia 10/02/2025 - Segunda-feira</b></p>
 <p>✅Treino Glúteos</p>
 <p>✅Treino Corrida: 5 km a 11 km/h + 05 min caminhada a 07 km/h e elevação 8%.</p>
