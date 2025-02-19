@@ -78,29 +78,24 @@
 <p>✅Treino Glúteos</p>
 <p>✅Treino Corrida: 5 km a 11 km/h + 05 min caminhada a 07 km/h e elevação 8%.</p>
 <p>🔎Nível de Dificuldade: 05 (intermediário).</p>
-<p><b>Dia 11/02/2025 - Terça-feira</b></p>
-<p>✅Treino </p>
-<p>✅Treino Corrida:</p>
-<p>🔎Nível de Dificuldade: </p>
-<p><b>Dia 12/02/2025 - Quarta-feira</b></p>
-<p>✅Treino </p>
-<p>✅Treino Corrida:</p>
-<p>🔎Nível de Dificuldade: </p>
-<p><b>Dia 13/02/2025 - Quinta-feira</b></p>
-<p>✅Treino </p>
-<p>✅Treino Corrida:</p>
-<p>🔎Nível de Dificuldade: </p>
 <p><b>Dia 14/02/2025 - Sexta-feira</b></p>
-<p>✅Treino </p>
-<p>✅Treino Corrida:</p>
-<p>🔎Nível de Dificuldade: </p>
+<p>✅Treino Quadriceps</p>
+<p>❎Não tive tempo para terminar o treino de corrida. </p>
 <p><b>Dia 15/02/2025 - Sábado</b></p>
-<p>✅Treino </p>
-<p>✅Treino Corrida:</p>
-<p>🔎Nível de Dificuldade: </p>
-<p><b>Dia 16/02/2025 - Domingo</b></p>
-<p>✅Treino </p>
-<p>✅Treino Corrida:</p>
-<p>🔎Nível de Dificuldade: </p>
+<p>❎Sem musculação hoje</p>
+<p>✅Treino de Corrida: corri 10.2 km em uma hora. </p>
+<p>🔎Nível de Dificuldade: médio para alto.</p>
+<p><b>Dia 17/02/2025 - Segunda-feira</b></p>
+<p>✅Treino de Glúteos. </p>
+<p>✅Treino Corrida: 05 km a 12 km/h, sendo os últimos 700 metros a 16 km/h + 05 minutos de caminhada a 4 km/h e inclinação 8%. </p>
+<p>🔎Nível de Dificuldade: média para alta.</p>
+<p><b>Dia 18/02/2025 - Terça-feira</b></p>
+<p>✅Treino Posterior. </p>
+<p>✅Treino Corrida:, 8 tiros de x 200 metros a 12,5 km/h com 45 segundos de descanso + 5 minutos de trote a 10,5 km/h + 5 minutos de caminhada a 8,5 km/h com inclinação 10%. </p>
+<p>🔎Nível de Dificuldade: Média. </p>
+<p><b>Dia 19/02/2025 - Quarta-feira</b></p>
+<p>✅Treino Quadriceps. </p>
+<p>✅Treino Corrida: 03 km a 12 km/h + 10 minutos a 7 km/h com inclinação 16% + 05 minutos a 05 km/h com inclinação 10%.</p>
+<p>🔎Nível de Dificuldade: Média para alta. </p>
 </body>
 </html>
